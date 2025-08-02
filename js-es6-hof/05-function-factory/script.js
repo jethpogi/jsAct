@@ -1,0 +1,3 @@
+// Starter examples (function output expectations are provided in README)
+
+// Start coding here...
